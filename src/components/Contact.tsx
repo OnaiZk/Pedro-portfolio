@@ -77,7 +77,9 @@ export default function Contact() {
           >
             <a
               id="contact-github"
-              href="#"
+              href="https://github.com/JOYBOY1997dev"
+              target="_blank"
+              rel="noopener noreferrer"
               aria-label="GitHub"
               className="p-3 sm:p-4 border border-background/20 text-background hover:bg-background hover:text-foreground active:scale-95 transition-all group"
             >
@@ -85,7 +87,9 @@ export default function Contact() {
             </a>
             <a
               id="contact-linkedin"
-              href="#"
+              href="https://www.linkedin.com/in/pedro-augusto-b749291b5/"
+              target="_blank"
+              rel="noopener noreferrer"
               aria-label="LinkedIn"
               className="p-3 sm:p-4 border border-background/20 text-background hover:bg-background hover:text-foreground active:scale-95 transition-all group"
             >
